@@ -1,6 +1,6 @@
 # Frontend Assessment
 
-## Project made by Eduardo de Jesus to Hatchways
+## Project made by Eduardo de Jesus
 
 ### Technologies:
 
