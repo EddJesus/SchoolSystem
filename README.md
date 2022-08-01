@@ -4,14 +4,22 @@
 
 ### Technologies:
 
-- Typescript
-- React
-- Styled Components
-- Axios
-- Eslint
+- [Typescript](typescriptlang.org)
+- [React.js](https://reactjs.org/)
+- [Styled-Components](https://styled-components.com/)
+- [Eslint](https://eslint.org/)
 
 ### Instalation and run:
 
-1st - Save the project
-2nd - Use "yarn" to install dependencies
-3th - Use "yarn start" to run the project on your browser on port 3000
+1. Clone the repo
+   ```sh
+   git clone https://github.com/EddJesus/Bookcase-Cartoon.git
+   ```
+2. Install packages
+   ```sh
+   yarn
+   ```
+3. Start react app
+   ```sh
+   yarn start
+   ```
